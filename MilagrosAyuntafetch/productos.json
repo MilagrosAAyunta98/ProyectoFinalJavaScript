@@ -1,0 +1,71 @@
+
+{
+    "status": "success",
+    "items": [{
+            "id": 1,
+            "title": "Zapatillas",
+            "price": 4500,
+            "image": "img/instagram.jpg",
+            "category": "Zapatillas"
+        },
+        {
+            "id": 2,
+            "title": "Botines Futbol5 Bicolor",
+            "price": 6900,
+            "image": "img/productoBotinesBlanco.jpg",
+            "category": "Botines Papi"
+        },
+        {
+            "id": 3,
+            "title": "Botines Sala",
+            "price": 6500,
+            "image": "img/4117070-Recuperado-Recuperado-Recuperado-Recuperado.jpg",
+            "category": "Botines Sala"
+        },
+        {
+            "id": 4,
+            "title": "Zapatillas Runnig Rosa",
+            "price": 3500,
+            "image": "img/4295957-Recuperado.jpg",
+            "category": "Elastizadas"
+        },
+        {
+            "id": 5,
+            "title": "Zapatillas Runnig Negro",
+            "price": 3500,
+            "image": "img/elastizadasNegras.jpg",
+            "category": "Elastizadas"
+
+        },
+        {
+            "id": 6,
+            "title": "Zapatillas",
+            "price": 3500,
+            "image": "img/elastizadas5.jpg",
+            "category": "Zapatillas"
+
+        },
+        {
+            "id": 7,
+            "title": "Botines Futbok 5 Negros",
+            "price": 6900,
+            "image": "img/productoBotinesNegros.jpg",
+            "category": "Botines Papi"
+        },
+        {
+            "id": 8,
+            "title": "Sandalias Franciscanas",
+            "price": 3500,
+            "image": "img/productoSandaliasFranciscanas.jpg",
+            "category": "Sandalias"
+        },
+        {
+            "id": 9,
+            "title": "Zapatillas",
+            "price": 4500,
+            "image": "img/zapasnegras.jpg",
+            "category": "Zapatillas"
+        }
+        
+    ]
+}
